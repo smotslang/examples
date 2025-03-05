@@ -1,0 +1,20 @@
+crumble @madeline
+wind 88
+dash 8
+crumble @madeline
+
+jump 7
+    dash 7
+    jump 8
+        fall
+        dash 87
+        climb
+        dash 7
+    spring 8
+    dash 88
+    wind 7
+    dash 8
+    fall
+spring 7
+dash 87
+run
